@@ -1,6 +1,6 @@
 # Daily Journal App
 - Technologies: Node.js, ejs, html, css
-<img width="854" alt="Screenshot 2022-05-10 231527" src="https://user-images.githubusercontent.com/67941687/167690448-c02c8f64-7e76-40f6-b10f-068782e09577.png">
+<img width="960" alt="p1" src="https://user-images.githubusercontent.com/67941687/167692661-7bfd78e2-c37b-4f2e-b170-2265814f3148.png">
 
 
 ### To run this app in your PC, follow these steps:
