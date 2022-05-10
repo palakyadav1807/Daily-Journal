@@ -1,6 +1,7 @@
 # Daily Journal App
 - Technologies: Node.js, ejs, html, css
-<img width="960" alt="Screenshot 2022-01-06 231737" src="https://user-images.githubusercontent.com/67941687/148429696-485b850e-b880-4eb9-ba82-32dd27b0a88e.png">
+<img width="854" alt="Screenshot 2022-05-10 231527" src="https://user-images.githubusercontent.com/67941687/167690448-c02c8f64-7e76-40f6-b10f-068782e09577.png">
+
 
 ### To run this app in your PC, follow these steps:
 To get started, you have to [fork](https://github.com/palakyadav1807/Daily-Journal/fork) this repo to your own GitHub account first. Then open up a terminal on your machine and enter the following commands:
