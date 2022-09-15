@@ -9,8 +9,7 @@ To get started, you have to [fork](https://github.com/palakyadav1807/Daily-Journ
 ```bash
 git clone https://github.com/<your user name>/Daily-Journal.git
 cd Daily-Journal
-npm install
-npm start
+node app.js
 ```
 
 This will start the development server on `http://localhost:3000`. This page should reload automatically when you make changes to the code, but no code is perfect, so sometimes you may need to restart it. :)
